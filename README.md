@@ -13,7 +13,7 @@ Once loaded in a validator, this file will suggest the validating software to cr
 You can find the software on PyPi, so you can install it easily via pip.
 
 ```shell
-# pip3 install rpki-as0-bogon
+# pip3 install rpki-as0-bogons
 ```
 
 ## Usage
